@@ -4,8 +4,9 @@
 
 ### Prerequisites
 
-1. [NodeJS >=12 (>=16 recommended)](https://nodejs.org/en/)
-2. [Yarn](https://yarnpkg.com)
+1. [Git](https://git-scm.com/)
+2. [NodeJS >=12 (>=16 recommended)](https://nodejs.org/en/)
+3. [Yarn](https://yarnpkg.com)
 
 ### Installation
 
