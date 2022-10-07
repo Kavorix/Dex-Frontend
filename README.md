@@ -10,6 +10,7 @@
 ### Installation
 
 ```bash
+git clone https://github.com/VenomProtocol/frontend.git
 yarn install
 ```
 
