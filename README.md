@@ -1,4 +1,6 @@
-# Dex Frontend
+# Echo Dex Frontend
+
+EchoDEX is a native Decentralized Exchange built on the Linea Network.
 
 ### Installation
 
